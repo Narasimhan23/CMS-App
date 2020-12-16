@@ -8,4 +8,5 @@ Front End - Client folder consists of the entire front end source code.
 CMD commands -
 
 Node packages - npm init
+
 Running Frontend and Backend server - npm run dev
